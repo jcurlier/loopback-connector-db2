@@ -2,6 +2,14 @@
   "name": "loopback-connector-db2",
   "version": "0.0.1",
   "description": "Loopback DB2 Connector",
+  "keywords": [
+    "StrongLoop",
+    "LoopBack",
+    "DB2",
+    "DataSource",
+    "Connector"
+  ],
+  "main": "index.js",
   "dependencies": {
     "debug": "^2.1.1",
     "loopback-connector": "^2.3.0",
