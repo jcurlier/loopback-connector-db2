@@ -2,16 +2,10 @@
   "name": "loopback-connector-db2",
   "version": "0.0.1",
   "description": "Loopback DB2 Connector",
-  "scripts": {
-    "start": "node .",
-    "pretest": "jshint ."
-  },
   "dependencies": {
-    "async": "^0.9.0",
     "debug": "^2.1.1",
     "loopback-connector": "^2.3.0",
-    "ibm_db": "git+https://git@github.com/ibmdb/node-ibm_db.git#v4_support",
-    "strongloop-license": "^1.0.2"
+    "ibm_db": "git+https://git@github.com/ibmdb/node-ibm_db.git#v4_support"
   },
   "repository": {
     "type": "git",
